@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">week2T01</string>
+    <string name="hello_world">Hello World!!</string>
+    <string name="text_with_paragraphs">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ornare faucibus convallis. Suspendisse molestie eros in facilisis fringilla.
+    </string>
+    <string name="todo">TODO</string>
+</resources>
